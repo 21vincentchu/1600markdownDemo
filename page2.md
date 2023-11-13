@@ -8,4 +8,4 @@
 5. I enjoy taking photos, i currently use a sony a6400
 6. I make typing videos of my custom mechanical keyboards on https://www.youtube.com/@Vinnyy_zip
 
-<blockquote class="imgur-embed-pub" lang="en" data-id="a/chht17O" data-context="false" ><a href="//imgur.com/a/chht17O"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
+[Watch a typing video i made!](https://youtu.be/arP7CSar6m0?si=32gA3Dc2yfXa8QvX)
