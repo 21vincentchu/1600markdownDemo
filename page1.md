@@ -15,3 +15,4 @@ for(int i = 0, i < 10, i++)
   console.writeline("vincent is cool");
 }
 ```
+[Go to Page 2](page2.md)
