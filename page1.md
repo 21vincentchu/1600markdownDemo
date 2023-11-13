@@ -15,4 +15,6 @@ for(int i = 0, i < 10, i++)
   console.writeline("vincent is cool");
 }
 ```
+
+### Feel free to learn more about me on page 2
 [Go to Page 2](page2.md)
