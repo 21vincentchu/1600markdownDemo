@@ -5,7 +5,7 @@ I am glad that I am finally getting to know how to use github and markdown, as i
 **My name**: Vincent Chu
 1. I like custom mechanical keyboards
 2. I enjoy coding
-3. I enjy listening to music
+3. I enjoy listening to music
 
 **here is how you declare a for loop in C#**
 
