@@ -9,7 +9,8 @@ I am glad that I am finally getting to know how to use github and markdown, as i
 
 **here is how you declare a for loop in C#**
 
-```for(int i = 0, i < 10, i++)
+```
+for(int i = 0, i < 10, i++)
 {
   console.writeline("vincent is cool");
 }
